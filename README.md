@@ -58,3 +58,8 @@ By default, any bot created with Botpress is licensed under AGPLv3, but you may 
 For more information about how the dual-license works and why it works that way, please see the <a href="https://botpress.com/faq">FAQS</a>.
 
 ![](https://api.segment.io/v1/pixel/page?data=eyJ3cml0ZUtleSI6InczR0xQaGFwY1RqTjdZVnJZQVFYU05Wam9yVUFNOXBmIiwidXNlcklkIjoiYW5vbnltb3VzIn0=)
+
+
+
+<a href="https://render.com/deploy?repo=https://github.com/1-i/bp"><img src="../../../../_images/deploy-to-render-hasura1.png" class="" alt="Deploy To Render Hasura Page" width="auto" height="auto">
+</a>
