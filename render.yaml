@@ -1,0 +1,8 @@
+services:
+- type: web
+  name: botpress
+  env: docker
+  autoDeploy: false
+  healthCheckPath: /healthz
+  - key: PORT
+    value: 3000
